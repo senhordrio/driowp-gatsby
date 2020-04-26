@@ -1,0 +1,7 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    font-family: Montserrat;
+    font-size: 0.8em;
+    margin-top: 3%;
+}
