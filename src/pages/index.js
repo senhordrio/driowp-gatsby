@@ -8,7 +8,7 @@ import Navigation from "../components/navigation"
 
 export default () => (
   <Layout>
-    <Header profileText="Estudante, Desenvolvedor" nameText="drio"/>
+    <Header profileText="Estudante, Desenvolvedor." nameText="drio"/>
     <Navigation/>
     <Footer footerText="Design e desenvolvimento por @senhordrio." />
   </Layout>
