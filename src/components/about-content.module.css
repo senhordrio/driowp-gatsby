@@ -1,0 +1,26 @@
+.flexContainer{
+    display: flex;
+    flex-flow: row wrap;
+    margin: 8% 0% 15% 0%;
+    justify-content: center;
+}
+
+.pictureWrapper{
+    width: 300px;
+    height: 375px;
+}
+
+.picture{
+    height: auto;
+    width: 100%;
+}
+
+.textWrapper{
+    max-width: 70%;
+    margin-left: 5%;
+}
+
+.text{
+    font-family: Open sans;
+    font-size: 1.5em;
+}
