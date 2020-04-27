@@ -1,9 +1,11 @@
 import React from "react"
 import { Link } from "gatsby"
+import TransitionLink from "gatsby-plugin-transition-link"
 import Layout from "../components/layout"
 import Header from "../components/header"
 import Footer from "../components/footer"
 import LinkStyle from "./index.module.css"
+
 
 const PageLinks = props => (
   <div className={LinkStyle.container}>
@@ -21,8 +23,8 @@ const PageLinks = props => (
 
 export default () => (
   <Layout>
-    <Header profileText="Estudante, Desenvolvedor." nameText="drio"/>
-    <PageLinks/>
+    <Header profileText="Estudante, Desenvolvedor." nameText="drio" />
+    <PageLinks />
     <Footer footerText="Design e desenvolvimento por @senhordrio." />
   </Layout>
 )
