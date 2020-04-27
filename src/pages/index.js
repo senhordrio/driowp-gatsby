@@ -3,10 +3,10 @@ import { Link } from "gatsby"
 import Layout from "../components/layout"
 import Header from "../components/header"
 import Footer from "../components/footer"
-import LinkStyle from "./page-link.module.css"
+import LinkStyle from "./index.module.css"
 
 const PageLinks = props => (
-  <div>
+  <div className={LinkStyle.container}>
     <Link to="/about" className={LinkStyle.about}>
       sobre
     </Link>

@@ -3,7 +3,7 @@ import Footer from "../components/footer"
 import Header from "../components/header"
 import Layout from "../components/layout"
 import SocialLinks from "../components/social-links"
-import AboutStyle from "./about-content.module.css"
+import AboutStyle from "./about.module.css"
 import Picture from "../assets/drio.jpg"
 
 const AboutContent = props => (
