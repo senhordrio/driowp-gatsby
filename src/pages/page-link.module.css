@@ -1,0 +1,61 @@
+.about{
+    font-size: 8em;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: bolder;
+    transition: .3s ease;
+    display: table;
+    text-decoration: none;
+    color: white;
+}
+
+.about:hover{
+    transition: .3s ease;
+    transform: translateY(-10px);
+    text-shadow: 7px 10px rgb(48, 224, 54);
+}
+
+.projects{
+    font-size: 8em;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: bolder;
+    transition: .3s ease;
+    display: table;
+    text-decoration: none;
+    color: white;
+}
+
+.projects:hover{
+    transition: .3s ease;
+    transform: translateY(-10px);
+    text-shadow: 7px 10px rgb(223, 211, 47);
+}
+
+.contact{
+    font-size: 8em;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: bolder;
+    transition: .3s ease;
+    display: table;
+    text-decoration: none;
+    color: white;
+}
+
+.contact:hover{
+    transition: .3s ease;
+    transform: translateY(-10px);
+    text-shadow: 7px 10px rgb(218, 56, 183);
+}
+
+
+
+
+

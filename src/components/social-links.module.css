@@ -1,0 +1,55 @@
+.linkedin{
+    font-size: 8em;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: bolder;
+    transition: .3s ease;
+    display: table;
+}
+
+.linkedin:hover{
+    transition: .3s ease;
+    transform: translateY(-10px);
+    text-shadow: 7px 10px #2867B2;
+}
+
+.twitter{
+    font-size: 8em;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: bolder;
+    transition: .3s ease;
+    display: table;
+}
+
+.twitter:hover{
+    transition: .3s ease;
+    transform: translateY(-10px);
+    text-shadow: 7px 10px #1DA1F2;
+}
+
+.amazon{
+    font-size: 8em;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: bolder;
+    transition: .3s ease;
+    display: table;
+}
+
+.amazon:hover{
+    transition: .3s ease;
+    transform: translateY(-10px);
+    text-shadow: 7px 10px #FF9900;
+}
+
+
+
+
+
